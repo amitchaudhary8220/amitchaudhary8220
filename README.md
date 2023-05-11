@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js ,Material UI**
+- 🌱 I’m currently learning **React.js ,JavaScript,TypeScript and Material UI**
 
 - 💬 Ask me about **React,JavaScript,Java, Data Structure and Algorithm**
 
