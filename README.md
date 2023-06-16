@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **React.js ,JavaScript,TypeScript and Material UI**
+- 🌱 I’m currently learning and working on  **React.js ,JavaScript,TypeScript, Node.js ,Express.js, and MongoDb**
 
 - 💬 Ask me about **React,JavaScript,Java, Data Structure and Algorithm**
 
